@@ -1,5 +1,7 @@
 # Full Stack E-Commerce + Store  & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
 
+### Front-end Store
+<img src="./resources/store.png"/>
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
